@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm a cybersecurity enthusiast, studying IT security in Milan.
 
+Passionate about reverse engineering and exploit development.
+
 I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 
 Things I would like to do:
