@@ -25,4 +25,4 @@ Things I would like to do:
 
 - Understand OS internals (Windows API, Linux kernel)
 - Dig into malware analysis
-- Get confortable with web exploitation (I'm doing _PortSwigger Academy Labs_)
+- Get comfortable with web exploitation (I'm doing _PortSwigger Academy Labs_)
