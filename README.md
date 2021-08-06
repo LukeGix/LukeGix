@@ -21,8 +21,9 @@ Passionate about reverse engineering and exploit development.
 
 I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 
-Things I would like to do:
+2021 to-do list:
 
-- Understand OS internals (Windows API, Linux kernel)
-- Dig into malware analysis
+- Understand how an OS works
 - Get comfortable with web exploitation (I'm doing _PortSwigger Academy Labs_)
+- Get eJPT certification
+- Learn more about Reverse Engineering
