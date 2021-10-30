@@ -27,4 +27,3 @@ I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 - <s>Get comfortable with web exploitation (I'm doing _PortSwigger Academy Labs_)</s>
 - <s>Get eJPT certification</s>
 - <s>Learn more about Reverse Engineering</s>
-- Learn how to write Windows/Linux drivers
