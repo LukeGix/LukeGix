@@ -23,7 +23,7 @@ I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 
 2022 to-do list:
 
-- Get the yellow/blue belt from pwn.college DONE
+- ~Get the yellow/blue belt from pwn.college~
 - Learn more about web exploitation
 - Learn Rust
 - Learn arm exploitation basics
