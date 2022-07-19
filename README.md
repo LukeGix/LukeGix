@@ -27,5 +27,5 @@ I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 - Learn more about web exploitation (maybe get PortSwigger Certification, idk)
 - Learn arm exploitation basics
 - Learn Linux kernel internals
-- Learn smart contract basics
+- ~Learn smart contract basics~
 
