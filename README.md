@@ -26,6 +26,6 @@ I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 - ~Get the yellow/blue belt from pwn.college~
 - Learn more about web exploitation (maybe get PortSwigger Certification, idk)
 - Learn arm exploitation basics
-- Learn Linux kernel internals
+- ~Learn Linux kernel internals~
 - ~Learn smart contract basics~
 
