@@ -21,11 +21,10 @@ Passionate about reverse engineering and exploit development.
 
 I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
 
-2022 to-do list:
+2023 to-do list:
 
-- ~Get the yellow/blue belt from pwn.college~
-- Learn more about web exploitation (maybe get PortSwigger Certification, idk)
+- Learn more about hypervisors
+- Learn more about windows exploitation
 - Learn arm exploitation basics
-- ~Learn Linux kernel internals~
-- ~Learn smart contract basics~
+
 
