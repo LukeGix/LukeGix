@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a cybersecurity enthusiast, studying IT security in Milan.
+I'm a Vulnerability Researcher @ Exodus Intelligence.
 
 Passionate about reverse engineering and exploit development.
 
-I'm also a beginner CTF player with _dcode-us_ team (with @damned-me)
+2024 to-do list:
 
-2023 to-do list:
-
-- Learn more about hypervisors
-- Learn more about windows exploitation
-- Learn arm exploitation basics
-
-
+- Hypervisors Exploitation (VMware, Hyper-V)
+- Windows Kernel Exploitation
+- FUZZING
