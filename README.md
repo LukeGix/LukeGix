@@ -19,7 +19,7 @@ I'm a Vulnerability Researcher @ Exodus Intelligence.
 
 Passionate about reverse engineering and exploit development.
 
-2024 to-do list:
+2025 to-do list:
 
 - Hypervisors Exploitation (VMware, Hyper-V)
 - Windows Kernel Exploitation
